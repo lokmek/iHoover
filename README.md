@@ -17,3 +17,9 @@ La position initiale de l’aspirateur, ainsi que son orientation.
 Une série d'instructions que l’aspirateur exécutera.
 
 Lorsque l’aspirateur achève une série d'instructions, il communique sa position et son orientation.
+
+
+Objectif
+Concevoir et développer une application permettant de paramétrer la dimension de la grille, de positionner l’aspirateur et d’exécuter une liste d’instructions. On doit alors pouvoir connaître sa position finale.
+
+Le langage de programmation imposé est soit Java, Kotlin, Scala ou Typescript, le livrable doit contenir tout le code source et une documentation simple pour l’exécuter, cela peut très bien être une main classe ou des tests unitaires. L’utilisation de librairie ou framework tierce est autorisée.
